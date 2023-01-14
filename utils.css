@@ -1,0 +1,21 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background-color: skyblue;
+  }
+  .mx- auto{
+    margin: auto;
+  }
+  .flex{
+    display:flex;
+  
+  }
+  .flex-col{
+      flex-direction: column;
+  }
+  .item-center{
+    justify-content: center;
+    align-items: center;
+  }
